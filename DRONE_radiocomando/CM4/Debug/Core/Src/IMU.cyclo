@@ -1,0 +1,12 @@
+../Core/Src/IMU.c:19:6:bno055_assignI2C	1
+../Core/Src/IMU.c:24:6:bno055_delay	1
+../Core/Src/IMU.c:34:6:bno055_readData	2
+../Core/Src/IMU.c:61:6:bno055_writeData	2
+../Core/Src/IMU.c:84:6:bno055_setPage	1
+../Core/Src/IMU.c:91:6:bno055_reset	1
+../Core/Src/IMU.c:98:6:bno055_setOperationMode	2
+../Core/Src/IMU.c:113:6:bno055_setOperationModeConfig	1
+../Core/Src/IMU.c:119:6:bno055_setOperationModeNDOF	1
+../Core/Src/IMU.c:124:6:bno055_init	2
+../Core/Src/IMU.c:144:17:bno055_getVector	10
+../Core/Src/IMU.c:196:17:bno055_getVectorEuler	1

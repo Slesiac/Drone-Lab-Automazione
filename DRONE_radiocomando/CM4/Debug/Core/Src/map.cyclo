@@ -1,0 +1,6 @@
+../Core/Src/map.c:6:6:setPwm	9
+../Core/Src/map.c:21:6:setPwmNoControl	1
+../Core/Src/map.c:29:6:ESC_Calibrate	1
+../Core/Src/map.c:38:7:map	3
+../Core/Src/map.c:47:6:armMotors	1
+../Core/Src/map.c:53:6:stopMotors	1

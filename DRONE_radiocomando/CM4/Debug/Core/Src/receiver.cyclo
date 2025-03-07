@@ -1,0 +1,5 @@
+../Core/Src/receiver.c:12:6:Receiver_Init	2
+../Core/Src/receiver.c:24:6:waitingForGettingFrequency	3
+../Core/Src/receiver.c:31:6:jumpHalfPeriod	1
+../Core/Src/receiver.c:37:6:startInputCaptureInterruptDutyCycle	1
+../Core/Src/receiver.c:42:6:startInputCaptureInterruptPitchRoll	1

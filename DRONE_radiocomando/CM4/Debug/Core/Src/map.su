@@ -1,0 +1,6 @@
+../Core/Src/map.c:6:6:setPwm	24	static
+../Core/Src/map.c:21:6:setPwmNoControl	24	static
+../Core/Src/map.c:29:6:ESC_Calibrate	8	static
+../Core/Src/map.c:38:7:map	24	static
+../Core/Src/map.c:47:6:armMotors	8	static
+../Core/Src/map.c:53:6:stopMotors	8	static
